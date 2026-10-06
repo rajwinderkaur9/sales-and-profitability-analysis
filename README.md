@@ -44,7 +44,7 @@ sales-and-profitability-analysis/
 ├── .gitignore
 ├── data_dictionary.md
 └── README.md
-
+```
 ## Key Business Insights
 The Revenue Trap: Certain sub-categories generate impressive sales volume but operate at a net loss due to aggressive pricing or high shipping costs.
 
